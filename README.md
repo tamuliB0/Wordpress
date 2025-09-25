@@ -18,23 +18,9 @@ Place the contents in your local wp-content/plugins directory.
 Activate the plugin from the WordPress admin dashboard.
 Follow any additional setup instructions included in plugin files.
 
-USAGE
-
-Review README and plugin PHP files for sample usages.
-Modify code to fit your own WordPress site needs.
-Compatible with WordPress 5.x and above.
-
-CONTRIBUTION
-
-Fork this repository and submit pull requests.
-Report issues or propose improvements via GitHub issues.
-All contributions must comply with GPLv2 or later.
 
 LICENSE
 
 This project is licensed under the GPLv2 or later.
 
-RESOURCE
 
-For documentation on WordPress plugin development: see the WordPress Plugin Handbook.
-Use a readme.txt template generator for WordPress plugins: see GenerateWP Readme Generator.
